@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.container{
+
+	justify-content:left;
+}
+.col-6{
+	border: 5px solid darkgreen;
+}
+.row{
+	justify-content:space-around;
+}
+.big_div{
+	
+	width: 70%;
+	border: 1px solid yellow;
+
+}
+.one_div{
+	align-items: center;
+justify-content: center;
+display:flex;
+	border: 1px solid pink ;
+}
+.small-div1{
+	width:10%;
+height:100%;
+	border: 1px solid red ;
+}
+.small-div2{
+	border: 2px solid black ;
+}
+.two-div{
+	align-items: center;
+justify-content: center;
+display:flex;
+	border: 1px solid pink
+}
+.middle-div1{
+	width:10%;
+height:100%;
+	border: 1px solid red ;
+}
+.middle-div2{
+	width: 10%;
+	height: 100%;
+	border: 2px solid black ;
+}

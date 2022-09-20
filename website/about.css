@@ -1,0 +1,23 @@
+ .image{
+ 
+ 	
+ 	width: 90%;
+ 	height: 100%;
+ }
+ .container{
+ 
+ }
+ .row{
+ display: flex;
+ justify-content: center;
+}
+.col-3{
+
+}
+.col-2{
+}
+td{
+	margin: 1px;
+	font-size: 20px;
+padding:7px;
+}
